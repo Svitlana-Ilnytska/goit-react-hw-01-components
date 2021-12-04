@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import css from "./Statistics.module.css";
 
-const Statistics = ({title, stats }) => (
+const Statistics = ({ title, stats }) => (
   <section className={css.statistics}>
     <h2 className={css.title}>{title}</h2>
 
@@ -26,7 +26,6 @@ Statistics.propTypes = {
   title: PropTypes.string,
   stats: PropTypes.arrayOf(
     PropTypes.shape({
-    
       name: PropTypes.string.isRequired,
       percentage: PropTypes.string.isRequired,
     })

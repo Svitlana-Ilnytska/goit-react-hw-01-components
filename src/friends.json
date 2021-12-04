@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "avatar": "https://planktons.ru/wp-content/uploads/posts/2011-07/1310208197_istorii1.jpg",
+    "name": "Kiwi"
+  },
+  {
+    "id": "2",
+    "avatar": "https://rugraphics.ru/sites/default/files/img-for-teaser/geroi-otechestvennyh-multfilmov-1.jpg",
+    "name": "Mango"
+  },
+  {
+    "id": "3",
+    "avatar": "https://bipbap.ru/wp-content/uploads/2019/06/48ec4e1a0b822ed4f4c57fe7ec0f08e9.jpg",
+    "name": "Poly"
+  },
+  {
+    "id": "4",
+    "avatar": "https://ds05.infourok.ru/uploads/ex/1380/00160c7f-a6cef201/hello_html_mb7df95b.jpg",
+    "name": "Ajax"
+  },
+  {
+    "id": "5",
+    "avatar": "https://pulse-uk.org.uk/wp-content/uploads/2011/11/HS-213x300.jpg",
+    "name": "Jay"
+  }
+]
