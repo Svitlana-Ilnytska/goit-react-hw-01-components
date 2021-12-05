@@ -7,12 +7,14 @@
   {
     "id": "2",
     "avatar": "https://rugraphics.ru/sites/default/files/img-for-teaser/geroi-otechestvennyh-multfilmov-1.jpg",
-    "name": "Mango"
+    "name": "Mango",
+    "isOnline": true
   },
   {
     "id": "3",
     "avatar": "https://bipbap.ru/wp-content/uploads/2019/06/48ec4e1a0b822ed4f4c57fe7ec0f08e9.jpg",
-    "name": "Poly"
+    "name": "Poly",
+    "isOnline": true
   },
   {
     "id": "4",

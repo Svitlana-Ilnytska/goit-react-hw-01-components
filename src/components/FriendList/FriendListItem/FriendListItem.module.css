@@ -1,5 +1,12 @@
-.status {
+.statusOfline {
   background-color: tomato;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.statusOnline {
+  background-color: rgb(33, 173, 33);
   width: 10px;
   height: 10px;
   border-radius: 50%;
